@@ -1,0 +1,34 @@
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.exe
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.deps.json
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.runtimeconfig.json
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.pdb
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.AssemblyReference.cache
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб_1_Git.Form1.resources
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.GenerateResource.cache
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.AssemblyInfoInputs.cache
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.AssemblyInfo.cs
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.CoreCompileInputs.cache
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\refint\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.pdb
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.genruntimeconfig.cache
+C:\Users\student203\Desktop\Раб 1 Git\Раб 1 Git\obj\Debug\net6.0-windows\ref\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.exe
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.deps.json
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.runtimeconfig.json
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\bin\Debug\net6.0-windows\Раб 1 Git.pdb
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.AssemblyReference.cache
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб_1_Git.Form1.resources
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.GenerateResource.cache
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.AssemblyInfoInputs.cache
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.AssemblyInfo.cs
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.csproj.CoreCompileInputs.cache
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\refint\Раб 1 Git.dll
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.pdb
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\Раб 1 Git.genruntimeconfig.cache
+C:\Users\student203\Desktop\Раб  Git\Раб 1 Git\obj\Debug\net6.0-windows\ref\Раб 1 Git.dll
